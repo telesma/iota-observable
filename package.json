@@ -1,6 +1,6 @@
 {
   "name": "iota-observable",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "JavaScript library for making objects observable",
   "keywords": ["observer", "rivets", "listener", "data binding"],
   "homepage": "http://www.helgoboss.org/projects/iota-observable/",

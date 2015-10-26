@@ -1,0 +1,21 @@
+{
+  "name": "iota-observable",
+  "description": "JavaScript library for making objects observable",
+  "homepage": "http://www.helgoboss.org/projects/iota-observable/",
+  "version": "1.1.0",
+  "main": "./iota-observable.js",
+  "license": "MIT",
+  "authors": [
+    "Benjamin Klum <benjamin.klum@helgoboss.org>"
+  ],
+  "keywords": ["observer", "rivets", "listener", "data binding"],
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "spec"
+  ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/helgoboss/iota-observable.git"
+  }
+}
