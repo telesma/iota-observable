@@ -13,7 +13,7 @@
   ],
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/helgoboss/iota-observable.git"
+    "url" : "https://github.com/telesma/iota-observable.git"
   },
   "main": "./iota-observable.js",
   "devDependencies": {
