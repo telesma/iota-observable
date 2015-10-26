@@ -2,7 +2,7 @@
   "name": "iota-observable",
   "description": "JavaScript library for making objects observable",
   "homepage": "http://www.helgoboss.org/projects/iota-observable/",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "./iota-observable.js",
   "license": "MIT",
   "authors": [
